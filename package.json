@@ -1,0 +1,22 @@
+{
+    "name": "quinnodarkness",
+    "displayName": "QuinnoDarkness",
+    "description": "A pastel dark theme for the sensitive eyes of brilliant devs",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "publisher": "alistairjoel",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quinno Darkness",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quinno Darkness-color-theme.json"
+            }
+        ]
+    }
+}
