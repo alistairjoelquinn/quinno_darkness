@@ -2,7 +2,7 @@
     "name": "quinnodarkness",
     "displayName": "QuinnoDarkness",
     "description": "A pastel dark theme for the sensitive eyes of brilliant devs",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.54.0"
     },
