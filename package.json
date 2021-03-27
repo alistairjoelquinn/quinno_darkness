@@ -7,6 +7,10 @@
         "vscode": "^1.54.0"
     },
     "publisher": "alistairjoel",
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/alistairjoelquinn/quinno_darkness"
+    },
     "categories": [
         "Themes"
     ],
@@ -15,7 +19,7 @@
             {
                 "label": "Quinno Darkness",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Quinno Darkness-color-theme.json"
+                "path": "./themes/quinno-darkness-color-theme.json"
             }
         ]
     }
